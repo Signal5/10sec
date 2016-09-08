@@ -1,0 +1,43 @@
+body{
+    background-color: #222222;
+    color: #ffffff;
+}
+
+#layout{
+    margin-top: 35px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #373737;
+    height: 270px;
+    box-shadow: 0 0 12px 2px #808080;
+}
+
+#layout #layoutsz{
+    height: 100px;
+    background-color: #373737;
+    color: #FEC900;
+    font-size: 20px;
+    padding-left: 25px;
+}
+
+#formnak{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    height: 120px;
+   
+}
+
+form input{
+    margin-top: 10px;
+    width: 400px;
+    height: 35px;
+    font-size: 22px;
+    margin-left: -30px;
+    background-color: #808080;
+    border: 1px solid #000000;
+ }
+
+
